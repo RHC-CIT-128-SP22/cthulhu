@@ -34,6 +34,15 @@ Source: _The Call of Cthulhu and Other Weird Stories_
 
 __Some Context:__
 
+<p >
+    <img
+        align = "right"
+        src = "assets/large-necronomicon-book-lovecraft-25.jpeg"
+        alt = "Cthulhu Book"
+        width = "250"
+    />
+</p>
+
 About the Author:
 
 Howard Phillips Lovecraft was an early 20th century horror writer. At the time, his works were published in _Weird Tales_ magazines and did not receive the amount of recognition that they do today. Because of this, he lived much of his life in poverty and this was actually one of the main causes for his depression. Nowadays, he is accredited as being the father of cosmic horror a.k.a. lovecraftian horror and known to have been one of the most influencial figures in the literary community for the horror genre.
